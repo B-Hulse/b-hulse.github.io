@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-subheadline: "These are a collection of my projects, both academic and personal."
+subheadline: "These are a collection of my projects, both academic and personal. Though due to time constraints while finish my degree this is not a comprehensive list of my projects/work."
 teaser: ""
 permalink: "/projects/"
 header:
